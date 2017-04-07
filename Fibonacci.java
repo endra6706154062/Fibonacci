@@ -5,7 +5,7 @@ static int awal,beda,banyak,deretke;
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
 
-
+    //modified
     int mode=0;
     boolean loop = true;
     while (loop = true)
