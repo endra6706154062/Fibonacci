@@ -99,7 +99,7 @@ static int awal,beda,banyak,deretke;
         int jumlah=0;
         for (int i=0; i < array.length;i++)
         {
-            jumlah+=array[i];
+            jumlah-=array[i];
         }
 
         return jumlah;    }  
